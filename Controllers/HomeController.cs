@@ -23,6 +23,14 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult About()
+    {
+        ViewBag.Title = "Kriptografi Uygulaması Hakkında";
+        ViewBag.Message = "Bu uygulama, kriptografi algoritmaları hakkında bilgi vermek ve pratik yapmak için tasarlanmıştır.";
+
+        return View();
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

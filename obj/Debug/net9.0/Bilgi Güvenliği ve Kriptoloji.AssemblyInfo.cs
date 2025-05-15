@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bilgi Güvenliği ve Kriptoloji")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd509a9fd5d671d78276a6c129611d773565f743")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30a128507c2c2a9751f7ca3812f927598ec47a6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bilgi Güvenliği ve Kriptoloji")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bilgi Güvenliği ve Kriptoloji")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

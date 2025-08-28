@@ -20,8 +20,3 @@ Bu web uygulaması, temel kriptografik algoritmaların (AES, RSA, SHA-256) nası
 1. Projeyi klonlayın
 2. `dotnet restore` komutunu çalıştırın
 3. `dotnet run` ile uygulamayı başlatın
-
-## Geliştirici
-
-**Halil İbrahim Balık**
-GitHub: [https://github.com/halilbalik](https://github.com/halilbalik)
